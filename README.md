@@ -11,6 +11,6 @@ It is a duo-project in which we have to create our own site.
 - My greatest achievement is i never give up.
 - I like to take participate in all events.
 # it is the image of my state. 
-[PUNJAB](images/9c8859d4bdd939e6a925589825e1a3e4.jpg)
+![PUNJAB](images/9c8859d4bdd939e6a925589825e1a3e4.jpg)
 
 
