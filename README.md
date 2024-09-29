@@ -8,5 +8,6 @@ My name is Gurkirat singh. I came from nation India and City punjab.
 - I also like to cook new dishes sometime.
 - My next hobby is collecting antique things like stamps and old coins.
 - One of my hobby is to create vlogs.
-# ![DALJIT DOSANJH](images/download%20(1).jpeg)
+# it  is the images of my favourite singer
+ ![DALJIT DOSANJH](images/download%20(1).jpeg)
 
